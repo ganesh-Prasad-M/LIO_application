@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.4.6",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.5"
+  },
+  "name": "learn-it-online",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node 0_main/app.js",
+    "dev": "nodemon 0_main/app.js"
+  },
+  "author": "Murali venkat J",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
