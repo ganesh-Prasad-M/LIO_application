@@ -1,5 +1,14 @@
 # (LIO)LEARN IT ONLINE_application
 
+<h2>Explore page</h2>
+<p>(https://user-images.githubusercontent.com/73270433/182146873-df288009-de2d-4042-9355-8fb72eda1893.jpg)</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73270433/182146873-df288009-de2d-4042-9355-8fb72eda1893.jpg" width="250" height="500"></img>
+</p>
+
+<br>
+<hr>
+
 Explore page
 https://user-images.githubusercontent.com/73270433/182146873-df288009-de2d-4042-9355-8fb72eda1893.jpg
 
